@@ -92,6 +92,14 @@ dc_geo_calcs1.ipynb
 Once it starts to run, you will follow the prompts
 ___
 
+Alternate file which employs Numpy and Lambda functions you may run is:
+
+```python
+dc_geo_np_vect_calcs1.ipynb
+
+```
+___
+
 ## **Version control**
 
 Version control can be reviewed at:
