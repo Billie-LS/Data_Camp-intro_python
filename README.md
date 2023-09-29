@@ -86,7 +86,7 @@ From terminal, the installed application is run through jupyter lab web-based in
 The file you will run is:
 
 ```python
-data_camp1.ipynb
+dc_geo_calcs1.ipynb
 
 ```
 Once it starts to run, you will follow the prompts
@@ -97,7 +97,7 @@ ___
 Version control can be reviewed at:
 
 ```python
-https://github.com/prpercy/LendingGenie
+https://github.com/Billie-LS/Data_Camp-intro_python
 ```
 
 [repository](https://github.com/Billie-LS/Data_Camp-intro_python)
